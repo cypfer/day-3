@@ -111,7 +111,7 @@ const App: React.FC = () => (
 
         {/* ✅ Footer */}
         <div style={{ textAlign: 'center', padding: '10px', background: '#000', color: '#fff' }}>
-          Jose Benedic Garcia | Day 3 Assignment | Bootcamp
+        
         </div>
       </IonTabs>
     </IonReactRouter>
